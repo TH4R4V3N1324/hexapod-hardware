@@ -1,6 +1,6 @@
 # hexapod-hardware
 
-Open-source hardware for 3D-printed six-legged walking robots. The repo has the CAD (STEP for editing, STL for printing), bills of materials, print lists and assembly docs. Shared electronics, including the breakout board, are in [`electronics/`](electronics/).
+Open-source hardware for 3D-printed six-legged walking robots. The repo has the CAD (STEP for editing, STL for printing), bills of materials, print lists and assembly docs. Shared electronics, including the [leg hub](electronics/leg-hub/) power and data board, are in [`electronics/`](electronics/).
 
 ## Variants
 
