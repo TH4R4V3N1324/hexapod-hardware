@@ -6,7 +6,7 @@ Open-source hardware for 3D-printed six-legged walking robots. The repo has the 
 
 | Variant | Key hardware | Status |
 |---|---|---|
-| [Explorer](explorer/) | ST3215 servos, Raspberry Pi 5, lidar | v0.1, in development |
+| [Explorer](explorer/) | ST3215 servos, Raspberry Pi 5, lidar | v0.2, in development |
 
 Each variant's folder has its own README, [print list](explorer/print-list.md), BOM and changelog.
 

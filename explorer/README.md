@@ -1,6 +1,6 @@
 # Explorer
 
-> ⚠️ **v0.1: under development, not ready to build yet.** Parts, BOM and instructions are incomplete and may change without notice.
+> ⚠️ **v0.2: under development, not ready to build yet.** Parts, BOM and instructions are incomplete and may change without notice.
 
 - [Print list](print-list.md)
 - [Bill of materials](bom.csv)

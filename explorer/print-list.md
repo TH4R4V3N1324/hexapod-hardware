@@ -11,7 +11,7 @@ Each part has an `.stl` for printing and a `.step` for editing in the same folde
 
 **Exceptions:**
 - **Foot: TPU (required).** It needs to be flexible for grip.
-- **Tibia cartridge: PETG (required).** Its bearing fit was tuned in PETG.
+- **Tibia cartridge and bearing spacers: PETG (required).** The bearing fit was tuned in PETG.
 
 **Caveats:**
 - **Fits were tuned on one printer with the reference materials.** The same CAD fits differently in PETG and PA12-CF. If bearings or rods bind or are loose, adjust the clearance in the STEP file or reprint in the reference material.
@@ -46,6 +46,7 @@ Each part has an `.stl` for printing and a `.step` for editing in the same folde
 | Femur panel | [legs/femur-panel.stl](legs/femur-panel.stl) | 1 | 6 | PETG or PA12-CF | |
 | Tibia | [legs/tibia.stl](legs/tibia.stl) | 1 | 6 | PETG or PA12-CF | |
 | Tibia cartridge | [legs/tibia-cartridge.stl](legs/tibia-cartridge.stl) | 1 | 6 | **PETG (required)** | Bearing fit tuned in PETG |
+| Bearing spacer | [legs/bearing-spacer.stl](legs/bearing-spacer.stl) | 2 | 12 | **PETG (required)** | Same material as the tibia cartridge |
 | Shank | [legs/shank.stl](legs/shank.stl) | 1 | 6 | PETG (recommended) | Match the tibia cartridge: rod fits are tuned as a pair |
 | Foot | [legs/foot.stl](legs/foot.stl) | 1 | 6 | **TPU (required)** | Flexible, for grip |
 | Joint cap | [legs/joint-cap.stl](legs/joint-cap.stl) | 5 | 30 | PETG or PA12-CF | |
